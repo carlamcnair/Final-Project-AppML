@@ -1,0 +1,3 @@
+Data description:
+SVENPY: yield
+Beta: Målte parametre ("metadata" el input variable)
