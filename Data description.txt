@@ -1,3 +1,5 @@
 Data description:
 SVENPY: yield
-Beta: Målte parametre ("metadata" el input variable)
+Beta: Målte parametre ("target")
+
+Dates including holidays (13 days/year)
